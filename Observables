@@ -1,0 +1,10 @@
+Observable Trends in the Pyber Data:
+
+The first observable trend is noticeable in the Pyber bubble plot. It is noticeable that the fees per city type depend heavily on the number of rides.
+For example, it can be seen that there are a large abundance of Urban city type rides, and the fees are significatnly lower than those for rural cities.
+
+The second observable trend is found in the total fares by city type pie chart. It is noticeable that the sales coming from urban cities make up
+62.7% of all fares for Pyber, due to the fact there are so many more Urban rides than both suburban and rural cities.
+
+The third observable trend is the data correlation between rides and total drivers. Due to there being so many more rides in urban citites,
+there are then a nearly proportional amount of drivers present in these cities due to demand. This is shown in the pie charts for total drivers, and total rides per city.
